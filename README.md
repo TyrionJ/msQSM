@@ -4,7 +4,7 @@
 ## Overview
 We provide the PyTorch implementation of our NeuroImage submission ["msQSM"]().
 
-<img src="architecture.png" alt="msQSM architecture">
+<img src="architecture.jpg" alt="msQSM architecture">
 
 
 ## Files description
