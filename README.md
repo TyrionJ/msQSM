@@ -2,7 +2,7 @@
 
 
 ## Overview
-We provide the PyTorch implementation of our NeuroImage submission ["msQSM"]().
+We provide the PyTorch implementation of our NeuroImage submission ["msQSM"](https://doi.org/10.1016/j.neuroimage.2023.120181).
 
 <img src="architecture.jpg" alt="msQSM architecture">
 
